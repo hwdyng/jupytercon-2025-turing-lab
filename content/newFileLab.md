@@ -26,6 +26,17 @@ Purves et al. - Jupyter Book 2 0 – A Next Generation tool for sharing for Comp
 ``` python
 print("HELLO WORLD")
 ```
+
 ``` javascript
 console.log("This is not python");
+```
+#### `fibonacci.py`
+``` python
+def fib(n):
+    if n < 0:
+        return
+    if n in [0, 1]:
+        return n
+    else:
+        return fib(n-2) + fib(n-1)
 ```
