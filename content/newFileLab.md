@@ -3,6 +3,7 @@
   - Dogs
     - Bearded Collie
 
+# Figures
 ``` {figure} figures/favicon.svg
 :width: 10%
 :name: test-favicon
@@ -13,4 +14,18 @@ favicon - via downloaded file in /content/figure
 :width: 50%
 :name: lecture-hall
 lecture hall - via external url
+```
+# iframe
+```{iframe} https://www.youtube.com/embed/dhzrlXzYOlU?si=n2U0HSJyotjp-r93
+:width: 80%
+
+Purves et al. - Jupyter Book 2 0 – A Next Generation tool for sharing for Computational Content
+```
+
+# Code
+``` python
+print("HELLO WORLD")
+```
+``` javascript
+console.log("This is not python");
 ```
