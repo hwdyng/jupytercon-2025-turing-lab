@@ -4,7 +4,7 @@
     - Bearded Collie
 
 ``` {figure} figures/favicon.svg
-:width: 50%
+:width: 10%
 :name: test-favicon
 favicon
 ```
