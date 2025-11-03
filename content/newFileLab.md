@@ -6,12 +6,11 @@
 ``` {figure} figures/favicon.svg
 :width: 50%
 :name: test-favicon
-add file in the folder
+favicon
 ```
 
 ``` {figure} https://polslab.tnw.tudelft.nl/figures/training.JPG
 :width: 50%
-:name: test-favicon
-add file in the folder
+:name: lecture-hall
+lecture hall
 ```
-
