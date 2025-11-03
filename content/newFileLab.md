@@ -40,7 +40,13 @@ def fib(n):
     else:
         return fib(n-2) + fib(n-1)
 ```
+#### Wiki
+[Bloomberg Wikipedia Page](wiki:Bloomberg_L.P.) 
 
-
+#### xref
 [myst-guide](xref:myst-guide)
 - included in myst.yml under `references`
+
+[Jupyter Book Markdown Cheat Sheet](https://jupyter-book.github.io/workshop-template/cheat-sheet)
+
+
