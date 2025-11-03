@@ -37,6 +37,7 @@ project:
       repo: https://github.com/executablebooks/thebe-binder-base
 
   toc:
+    - file: content/newFileLab.md    # my new lab
     - file: index.md                      # the landing page
     - file: content/1_intro.md
     - file: content/2_cheat_sheet.md
