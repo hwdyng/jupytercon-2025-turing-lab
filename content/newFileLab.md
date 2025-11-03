@@ -48,5 +48,4 @@ def fib(n):
 - included in myst.yml under `references`
 
 [Jupyter Book Markdown Cheat Sheet](https://jupyter-book.github.io/workshop-template/cheat-sheet)
-
-
+[Jupyter Book Markdown Cheat Sheet local ref](xref:content/2_cheat_sheet.md)
