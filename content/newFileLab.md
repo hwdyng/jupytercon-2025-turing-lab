@@ -40,3 +40,7 @@ def fib(n):
     else:
         return fib(n-2) + fib(n-1)
 ```
+
+
+[myst-guide](xref:myst-guide)
+- included in myst.yml under `references`
